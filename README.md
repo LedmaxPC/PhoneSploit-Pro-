@@ -374,4 +374,4 @@ If you like my work you can support me via :
 
 <hr>
 
-Copyright © 2024 Mohd Azeem (github.com/AzeemIdrisi)
+Copyright © 2024 Xalid Shikhverdiyev (https://github.com/LedmaxPC)
